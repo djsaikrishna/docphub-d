@@ -5,7 +5,7 @@ API_HASH: str = "dddd64edfc5326e4a35e448347b83e2d"
 TOKEN: str = "5495158512:AAEfzTx9Nb8UMHm7ps2FPHYAhw6GbsVp0fI"
 
 log_chat: int = -1001871068671
-sub_chat: str = "moddacheeku"
+sub_chat: str = "dococ2022"
 sudoers: List[int] = [2094128105, 2094128100]
 prefixs: List[str] = ["/", "!", ".", "$", "-"]
 
