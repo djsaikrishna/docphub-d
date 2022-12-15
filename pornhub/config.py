@@ -4,8 +4,8 @@ API_ID: int = 15882573
 API_HASH: str = "dddd64edfc5326e4a35e448347b83e2d"
 TOKEN: str = "5495158512:AAEfzTx9Nb8UMHm7ps2FPHYAhw6GbsVp0fI"
 
-log_chat: int = insert_log_chat_id_here
-sub_chat: str = "insert_channel_username_here"
+log_chat: int = -1001871068671
+sub_chat: str = "moddacheeku"
 sudoers: List[int] = [2094128105, 2094128100]
 prefixs: List[str] = ["/", "!", ".", "$", "-"]
 
